@@ -1,8 +1,7 @@
 [include]
 
 [ignore]
-
-*./node_modules/@parcel/watcher/*
+.*/node_modules/@parcel/watcher
 
 [libs]
 
@@ -25,4 +24,4 @@ module.file_ext=.scss
 deprecated-utility=off
 
 [version]
-0.107.0
+0.129.0
